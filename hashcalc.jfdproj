@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <entry key="classpath1" value="src/main/java" />
+  <entry key="classpath2" value="target/classes" />
+  <entry key="sourcefolders1" value="src" />
+  <entry key="sourcefolders2" value="src/main/java" />
+  <node name="javacodegenerator">
+    <entry key="_codeStyleSettingsEnabled" value="true" />
+    <entry key="indentsize" value="2" />
+    <entry key="usetabchar" value="false" />
+  </node>
+</project>
+
